@@ -320,16 +320,7 @@ for (int y=1; y<=LineasCalendario(mes,anno); y++){
                                    else if (((x-1)%4==2)){
                                     printf("  ");}
 
-                                  /* else if ((x-1)%4==2){
-                                    printf("");}*/
-
-                                 /* else if((x==13)){
-                                    printf("");}*/
-
-                                 /*  else if((x==20)){
-                                              ;}*/
-                                 /*  else {
-                                    printf("");}*/
+                                  
 
                                    }
 
